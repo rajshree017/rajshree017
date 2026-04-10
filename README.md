@@ -1,23 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Rajshree!%20%F0%9F%91%8B&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Java%20%26%20Python%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Explorer&descAlignY=58&descSize=15" width="100%"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Fresh+Graduate+%7C+Ready+to+Build+%26+Grow+%F0%9F%9A%80;Java+%26+Python+Developer+%7C+27%2B+Projects;AI+%2F+ML+%7C+Full+Stack+%7C+Data+Science;Open+to+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Rajshree!+%F0%9F%91%8B;Java+%26+Python+Developer;AI+%2F+ML+%7C+Full+Stack+%7C+Data+Science;Open+to+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 <br>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajshree-1839262b1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajshree-1839262b1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_rajshree_/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajshree017)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajshree017.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajshree017)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=rajshree017&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 </div>
@@ -87,50 +78,50 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🔍 FraudSpotter](https://github.com/rajshree017/FraudSpotter-A-Machine-Learning-Approach) | Credit card fraud detection using ML — high accuracy classification | `Python` `Scikit-Learn` `Jupyter` |
-| [🧠 Smart Duplicate Detection](https://github.com/rajshree017/Smart-Duplicate-Detection-with-AI-and-NLP) | AI + NLP based intelligent duplicate content detection | `Python` `NLP` `AI` |
+| [🔍 FraudSpotter](https://github.com/rajshree017/FraudSpotter-A-Machine-Learning-Approach) | Credit card fraud detection using ML | `Python` `Scikit-Learn` `Jupyter` |
+| [🧠 Smart Duplicate Detection](https://github.com/rajshree017/Smart-Duplicate-Detection-with-AI-and-NLP) | AI + NLP based duplicate content detection | `Python` `NLP` `AI` |
 | [🤖 LearnFlow AI](https://github.com/rajshree017/learnflow-ai) | AI-powered learning + developer productivity assistant | `Python` `AI` |
-| [🎨 Neural Style Transfer](https://github.com/rajshree017/neural-style-transfer) | Deep learning based artistic style transfer between images | `Python` `Deep Learning` |
+| [🎨 Neural Style Transfer](https://github.com/rajshree017/neural-style-transfer) | Deep learning based artistic style transfer | `Python` `Deep Learning` |
 | [😷 Face Mask Detection](https://github.com/rajshree017/face-mask-detection) | Real-time face mask detection using computer vision | `Python` `CV` `ML` |
-| [💬 BERT Sentiment Analysis](https://github.com/rajshree017/bert-sentiment-analysis) | Sentiment classification using BERT transformer model | `Python` `BERT` `NLP` |
-| [📄 RAG Document QA](https://github.com/rajshree017/rag-document-qa) | Retrieval-Augmented Generation for intelligent document Q&A | `Python` `LLM` `RAG` |
+| [💬 BERT Sentiment Analysis](https://github.com/rajshree017/bert-sentiment-analysis) | Sentiment classification using BERT transformer | `Python` `BERT` `NLP` |
+| [📄 RAG Document QA](https://github.com/rajshree017/rag-document-qa) | Retrieval-Augmented Generation for document Q&A | `Python` `LLM` `RAG` |
 
 ### 📊 Data Science & Analytics
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [📈 Customer Churn Prediction](https://github.com/rajshree017/customer-churn-prediction) | Predicts customer churn with EDA and ML classification | `Python` `Pandas` `Scikit-Learn` |
-| [🏠 House Price Prediction](https://github.com/rajshree017/House-Price-Prediction) | Regression model to predict property prices accurately | `Python` `ML` `Pandas` |
+| [📈 Customer Churn Prediction](https://github.com/rajshree017/customer-churn-prediction) | Predicts customer churn with EDA and ML | `Python` `Pandas` `Scikit-Learn` |
+| [🏠 House Price Prediction](https://github.com/rajshree017/House-Price-Prediction) | Regression model to predict property prices | `Python` `ML` `Pandas` |
 | [💰 Loan Approval Prediction](https://github.com/rajshree017/Loan-Approval-Prediction) | ML model predicting loan approval outcomes | `Python` `Scikit-Learn` |
 | [🌦️ RealTime Weather Analytics](https://github.com/rajshree017/RealTime-Weather-Analytics) | Real-time weather data analysis and visualization | `Python` `API` `Pandas` |
 | [🎬 Netflix Data Analysis](https://github.com/rajshree017/Netflix-Data-Analysis) | EDA and trend insights from Netflix dataset | `Python` `Pandas` `Matplotlib` |
-| [🏏 IPL Cricket Analysis](https://github.com/rajshree017/IPL-Cricket-Analysis) | In-depth analysis of IPL cricket data and player stats | `Python` `Pandas` `Visualization` |
-| [🛒 Sales Analytics](https://github.com/rajshree017/sales-analytics-project) | Sales EDA — data cleaning, preprocessing, and insights | `Python` `Pandas` `EDA` |
+| [🏏 IPL Cricket Analysis](https://github.com/rajshree017/IPL-Cricket-Analysis) | In-depth IPL cricket data and player stats analysis | `Python` `Pandas` |
+| [🛒 Sales Analytics](https://github.com/rajshree017/sales-analytics-project) | Sales EDA — cleaning, preprocessing, insights | `Python` `Pandas` `EDA` |
 
 ### 🌐 Full Stack & Web
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [💰 Finance Backend](https://github.com/rajshree017/finance-backend) | Backend REST API for a finance management app | `JavaScript` `Node.js` |
+| [💰 Finance Backend](https://github.com/rajshree017/finance-backend) | REST API backend for finance management | `JavaScript` `Node.js` |
 | [🛒 E-Commerce](https://github.com/rajshree017/E-commerce) | Full-featured e-commerce web application | `JavaScript` `React` |
 | [📖 SmartStudy DevBuddy](https://github.com/rajshree017/SmartStudy-DevBuddy) | Smart developer-focused study assistant | `Python` |
 | [💼 JobTracker](https://github.com/rajshree017/JobTracker) | Track job applications, interviews & statuses | `Python` |
 | [🔐 Password Manager](https://github.com/rajshree017/password-manager) | Secure password storage and management | `Java` |
-| [✅ ToDoList App](https://github.com/rajshree017/ToDoList-App) | Clean and functional task management app | `Python` |
-| [🔎 Mini Search Engine](https://github.com/rajshree017/MiniSearchEngine) | Custom mini search engine implementation | `Java` |
+| [✅ ToDoList App](https://github.com/rajshree017/ToDoList-App) | Clean task management application | `Python` |
+| [🔎 Mini Search Engine](https://github.com/rajshree017/MiniSearchEngine) | Custom mini search engine | `Java` |
 
 ### ☕ Java Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [📚 Library Management System](https://github.com/rajshree017/LibraryManagementSystem) | Console app — book issuing, returns, transaction history | `Java` `OOP` `File I/O` `Collections` |
-| [🎓 Student Management System](https://github.com/rajshree017/StudentManagementSystem) | GUI app with auto grade calculation & student records | `Java Swing` `OOP` `ArrayList` |
+| [📚 Library Management System](https://github.com/rajshree017/LibraryManagementSystem) | Book issuing, returns, transaction history | `Java` `OOP` `File I/O` |
+| [🎓 Student Management System](https://github.com/rajshree017/StudentManagementSystem) | GUI app with auto grade calculation | `Java Swing` `OOP` |
 
 ### 🎨 UI Clones
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🛍️ Amazon Clone](https://github.com/rajshree017/Amazon-Clone) | Pixel-perfect Amazon shopping UI clone | `HTML` `CSS` `JS` |
+| [🛍️ Amazon Clone](https://github.com/rajshree017/Amazon-Clone) | Pixel-perfect Amazon UI clone | `HTML` `CSS` `JS` |
 | [🎵 Spotify Clone](https://github.com/rajshree017/Spotify-clone-project) | Spotify web player UI clone | `HTML` `CSS` `JS` |
 
 ---
@@ -162,44 +153,22 @@
 
 ---
 
-## 💡 What I Bring to the Table
-
-<div align="center">
-
-| 🔧 Domain | 💪 Capabilities |
-|----------|----------------|
-| **Backend Development** | REST APIs — Spring Boot, Node.js, FastAPI, Django |
-| **AI / ML** | Classification, Regression, NLP, Computer Vision, BERT, RAG |
-| **Data Science** | EDA, Data Cleaning, Visualisation, Predictive Modelling |
-| **Frontend** | React, React Native, HTML/CSS/JS |
-| **Java** | OOP, Swing GUI, Collections, File I/O, Custom Exceptions |
-| **Problem Solving** | Consistent LeetCode practice |
-
-</div>
-
----
-
 ## 🤝 Open to Opportunities!
 
 <div align="center">
 
-*🚀 Actively looking for roles in **SDE / Backend / Data Science / Full Stack***
-*💌 Let's connect and build something amazing together!*
+**🚀 Actively looking for roles in SDE / Backend / Data Science / Full Stack**
+
+*Let's connect and build something amazing together!*
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajshree-1839262b1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajshree-1839262b1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_rajshree_/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajshree017.github.io)
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-*⭐ If you find my work interesting, consider starring some repositories — it motivates me to keep building!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+*⭐ If you find my work interesting, consider starring some repositories!*
 
 </div>
