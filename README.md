@@ -82,7 +82,7 @@
 | [🧠 Smart Duplicate Detection](https://github.com/rajshree017/Smart-Duplicate-Detection-with-AI-and-NLP) | AI + NLP based duplicate content detection | `Python` `NLP` `AI` |
 | [🤖 LearnFlow AI](https://github.com/rajshree017/learnflow-ai) | AI-powered learning + developer productivity assistant | `Python` `AI` |
 | [🎨 Neural Style Transfer](https://github.com/rajshree017/neural-style-transfer) | Deep learning based artistic style transfer | `Python` `Deep Learning` |
-| [😷 Face Mask Detection](https://github.com/rajshree017/face-mask-detection) | Real-time face mask detection using computer vision | `Python` `CV` `ML` |
+| [😷 Face Mask Detection](https://github.com/rajshree017/face-mask-detection) | Real-time face mask detection using CV | `Python` `CV` `ML` |
 | [💬 BERT Sentiment Analysis](https://github.com/rajshree017/bert-sentiment-analysis) | Sentiment classification using BERT transformer | `Python` `BERT` `NLP` |
 | [📄 RAG Document QA](https://github.com/rajshree017/rag-document-qa) | Retrieval-Augmented Generation for document Q&A | `Python` `LLM` `RAG` |
 
@@ -130,24 +130,32 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajshree017&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshree017&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rajshree017&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshree017&layout=compact&theme=radical&hide_border=true" height="170"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rajshree017&theme=tokyonight&hide_border=true&background=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=rajshree017&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 💡 What I Bring to the Table
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=rajshree017&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)
+| 🔧 Domain | 💪 Capabilities |
+|----------|----------------|
+| **Backend Development** | REST APIs — Spring Boot, Node.js, FastAPI, Django |
+| **AI / ML** | Classification, Regression, NLP, Computer Vision, BERT, RAG |
+| **Data Science** | EDA, Data Cleaning, Visualisation, Predictive Modelling |
+| **Frontend** | React, React Native, HTML/CSS/JS |
+| **Java** | OOP, Swing GUI, Collections, File I/O, Custom Exceptions |
+| **Problem Solving** | Active LeetCode practice |
 
 </div>
 
